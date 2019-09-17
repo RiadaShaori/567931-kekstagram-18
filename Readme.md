@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Дарья Крывша](https://up.htmlacademy.ru/javascript/18/user/567931).
-* Наставник: `Неизвестно`.
+* Наставник: [Дмитрий Шамрило](https://htmlacademy.ru/profile/shamrilods).
 
 ---
 
